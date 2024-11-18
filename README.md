@@ -8,8 +8,7 @@ Work in progress.
 
 If you find this code useful for your research, please consider citing our paper:
 ```
-@inproceedings{
-rossetti2024unsupervised,
+@inproceedings{rossetti2024unsupervised,
   title={Unsupervised Hierarchy-Agnostic Segmentation: Parsing Semantic Image Structure},
   author={Simone Rossetti and Fiora Pirri},
   booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
