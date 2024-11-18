@@ -1,1 +1,1 @@
-# deep-recursive-spectral-clustering
+# recursive-deep-spectral-clustering
