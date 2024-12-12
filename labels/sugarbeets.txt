@@ -1,0 +1,3 @@
+background	0	1
+sugarbeet	1	0
+unlabeled	255 2

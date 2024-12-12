@@ -1,0 +1,69 @@
+{
+    "output_root": "data",
+    "model": "dinov2_vitb14_reg",
+    "dataset": "coco",
+    "split": "val_stuff",
+    "datasets_config": "./configs/datasets.json",
+    "conf_export": false,
+    "seed": 1234,
+    "dist_url": "env://",
+    "schedule":[
+        "extract_features",
+        "semantic_ncuts",
+        "create_stats"
+    ],
+    "tasks": {
+        "extract_features": {
+            "output_folder": "features",
+            "logging": "INFO",
+            "log_filename": "features",
+            "batch_size_per_gpu": 4,
+            "num_workers": 90,
+            "resume": false,
+            "resize": [840,840],
+            "stride": null,
+            "kernel": null,
+            "unfold": false
+        },
+        "semantic_ncuts": {
+            "output_folder": "ncuts",
+            "logging": "DEBUG",
+            "log_filename": "ncuts",
+            "save_strips": true,
+            "num_workers": 40,
+            "overclustering": "simultaneous",
+            "merging": "topdown",
+            "normalization": "symmetrical",
+            "distance": "cosine",
+            "adjacency": "minmax",
+            "heuristic": "maxgap",
+            "scaling": "unit",
+            "kover": 200,
+            "thresh": 0.0,
+            "sigma": 1,
+            "max_kways": 10,
+            "eig_stab_th": null,
+            "mncut_th": 0.8,
+            "max_perturb": 80,
+            "min_points": 1,
+            "resume": false,
+            "levels": 9,
+            "stride": null,
+            "kernel": null,
+            "unfold": false
+        },
+        "postprocess_crf": {
+            "output_folder": "crf",
+            "logging": "DEBUG",
+            "log_filename": "crf",
+            "num_workers": 45
+        },
+        "create_stats": {
+            "output_folder": "stats",
+            "logging": "DEBUG",
+            "log_filename": "stats",
+            "num_workers": 40,
+            "save_strips": true
+        }
+    }
+}

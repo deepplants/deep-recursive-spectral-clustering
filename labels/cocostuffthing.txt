@@ -1,0 +1,216 @@
+things
+	outdoor-super-things
+		person-things
+			person	0	0
+		vehicle-things
+			bicycle	1	0
+			car	2	0
+			motorcycle	3	0
+			airplane	4	0
+			bus	5	0
+			train	6	0
+			truck	7	0
+			boat	8	0
+		outdoor-things
+			traffic light	9	0
+			fire hydrant	10	0
+			street sign	11	0
+			stop sign	12	0
+			parking meter	13	0
+			bench	14	0
+		animal-things
+			bird	15	0
+			cat	16	0
+			dog	17	0
+			horse	18	0
+			sheep	19	0
+			cow	20	0
+			elephant	21	0
+			bear	22	0
+			zebra	23	0
+			giraffe	24	0
+		accessory-things
+			hat	25	0
+			backpack	26	0
+			umbrella	27	0
+			shoe	28	0
+			eye glasses	29	0
+			handbag	30	0
+			tie	31	0
+			suitcase	32	0
+		sports-things
+			frisbee	33	0
+			skis	34	0
+			snowboard	35	0
+			sports ball	36	0
+			kite	37	0
+			baseball bat	38	0
+			baseball glove	39	0
+			skateboard	40	0
+			surfboard	41	0
+			tennis racket	42	0
+	indoor-super-things
+		kitchen-things
+			bottle	43	0
+			plate	44	0
+			wine glass	45	0
+			cup	46	0
+			fork	47	0
+			knife	48	0
+			spoon	49	0
+			bowl	50	0
+		food-things
+			banana	51	0
+			apple	52	0
+			sandwich	53	0
+			orange	54	0
+			broccoli	55	0
+			carrot	56	0
+			hot dog	57	0
+			pizza	58	0
+			donut	59	0
+			cake	60	0
+		furniture-things
+			chair	61	0
+			couch	62	0
+			potted plant	63	0
+			bed	64	0
+			mirror	65	0
+			dining table	66	0
+			window	67	0
+			desk	68	0
+			toilet	69	0
+			door	70	0
+		electronic-things
+			tv	71	0
+			laptop	72	0
+			mouse	73	0
+			remote	74	0
+			keyboard	75	0
+			cell phone	76	0
+		appliance-things
+			microwave	77	0
+			oven	78	0
+			toaster	79	0
+			sink	80	0
+			refrigerator	81	0
+			blender	82	0
+		indoor-things
+			book	83	0
+			clock	84	0
+			vase	85	0
+			scissors	86	0
+			teddy bear	87	0
+			hair drier	88	0
+			toothbrush	89	0
+			hair brush	90	0
+stuff
+	indoor-super-stuff
+		textile-stuff
+			banner	91	0
+			blanket	92	0
+			cloth	103	0
+			clothes	104	0
+			curtain	108	0
+			mat	130	0
+			napkin	136	0
+			pillow	140	0
+			rug	151	0
+			textile-other	166	0
+			towel	167	0
+		furniture-stuff
+			cabinet	97	0
+			counter	106	0
+			cupboard	107	0
+			desk-stuff	109	0
+			door-stuff	111	0
+			furniture-other	122	0
+			light	129	0
+			mirror-stuff	132	0
+			shelf	155	0
+			stairs	160	0
+			table	164	0
+		rawmaterial-stuff
+			cardboard	99	0
+			metal	131	0
+			paper	138	0
+			plastic	142	0
+		floor-stuff
+			carpet	100	0
+			floor-marble	113	0
+			floor-other	114	0
+			floor-stone	115	0
+			floor-tile	116	0
+			floor-wood	117	0
+		ceiling-stuff
+			ceiling-other	101	0
+			ceiling-tile	102	0
+		food-stuff
+			food-other	120	0
+			fruit	121	0
+			salad	152	0
+			vegetable	169	0
+		wall-stuff
+			wall-brick	170	0
+			wall-concrete	171	0
+			wall-other	172	0
+			wall-panel	173	0
+			wall-stone	174	0
+			wall-tile	175	0
+			wall-wood	176	0
+		window-stuff
+			window-blind	179	0
+			window-other	180	0
+	outdoor-super-stuff
+		plant-stuff
+			branch	93	0
+			bush	96	0
+			flower	118	0
+			grass	123	0
+			leaves	128	0
+			moss	133	0
+			plant-other	141	0
+			straw	162	0
+			tree	168	0
+		building-stuff
+			bridge	94	0
+			building-other	95	0
+			house	127	0
+			roof	150	0
+			skyscraper	157	0
+			tent	165	0
+		structural-stuff
+			cage	98	0
+			fence	112	0
+			net	137	0
+			railing	145	0
+			structural-other	163	0
+		sky-stuff
+			clouds	105	0
+			sky-other	156	0
+		ground-stuff
+			dirt	110	0
+			gravel	124	0
+			ground-other	125	0
+			mud	135	0
+			pavement	139	0
+			platform	143	0
+			playingfield	144	0
+			railroad	146	0
+			road	148	0
+			sand	153	0
+			snow	158	0
+		water-stuff
+			fog	119	0
+			river	147	0
+			sea	154	0
+			water-other	177	0
+			waterdrops	178	0
+		solid-stuff
+			hill	126	0
+			mountain	134	0
+			rock	149	0
+			solid-other	159	0
+			stone	161	0
+			wood	181	0
+unlabeled	255	2

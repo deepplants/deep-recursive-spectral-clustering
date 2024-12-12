@@ -1,0 +1,52 @@
+quadruped
+	head	0	0
+	body	1	0
+	foot	2	0
+	tail	3	0
+biped
+	head	4	0
+	body	5	0
+	hand	6	0
+	foot	7	0
+	tail	8	0
+fish
+	head	9	0
+	body	10	0
+	fin	11	0
+	tail	12	0
+bird
+	head	13	0
+	body	14	0
+	wing	15	0
+	foot	16	0
+	tail	17	0
+snake
+	head	18	0
+	body	19	0
+reptile
+	head	20	0
+	body	21	0
+	foot	22	0
+	tail	23	0
+car
+	body	24	0
+	tire	25	0
+	mirror	26	0
+bicycle
+	body	27	0
+	head	28	0
+	seat	29	0
+	tire	30	0
+boat
+	body	31	0
+	sail	32	0
+aeroplane
+	head	33	0
+	body	34	0
+	engine	35	0
+	wing	36	0
+	tail	37	0
+bottle
+	mouth	38	0
+	body	39	0
+background	40	1

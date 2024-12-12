@@ -1,0 +1,43 @@
+void
+	unlabeled	0	2
+	ego vehicle	1	2
+	rectification border	2	2
+	out of roi	3	2
+	static	4	2
+	dynamic	5	2
+	ground	6	2
+flat
+	road	7	0
+	sidewalk	8	0
+	parking	9	2
+	rail track	10	2
+construction
+	building	11	0
+	wall	12	0
+	fence	13	0
+	guard rail	14	2
+	bridge	15	2
+	tunnel	16	2
+object
+	pole	17	0
+	polegroup	18	2
+	traffic light	19	0
+	traffic sign	20	0
+nature
+	vegetation	21	0
+	terrain	22	0
+sky
+	sky	23	0
+human
+	person	24	0
+	rider	25	0
+vehicle
+	car	26	0
+	truck	27	0
+	bus	28	0
+	caravan	29	2
+	trailer	30	2
+	train	31	0
+	motorcycle	32	0
+	bicycle	33	0
+	license plate	-1	2

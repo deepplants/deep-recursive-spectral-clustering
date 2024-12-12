@@ -1,0 +1,80 @@
+animal
+	bird	0	0
+	ground-animal	1	0
+construction
+	barrier
+		curb	2	0
+		fence	3	0
+		guard-rail	4	0
+		other-barrier	5	0
+		wall	6	0
+	flat
+		bike-lane	7	0
+		crosswalk-plain	8	0
+		curb-cut	9	0
+		parking	10	0
+		pedestrian-area	11	0
+		rail-track	12	0
+		road	13	0
+		service-lane	14	0
+		sidewalk	15	0
+	structure
+		bridge	16	0
+		building	17	0
+		tunnel	18	0
+human
+	person	19	0
+	rider
+		bicyclist	20	0
+		motorcyclist	21	0
+		other-rider	22	0
+marking
+	crosswalk-zebra	23	0
+	general	24	0
+nature
+	mountain	25	0
+	sand	26	0
+	sky	27	0
+	snow	28	0
+	terrain	29	0
+	vegetation	30	0
+	water	31	0
+object
+	banner	32	0
+	bench	33	0
+	bike-rack	34	0
+	billboard	35	0
+	catch-basin	36	0
+	cctv-camera	37	0
+	fire-hydrant	38	0
+	junction-box	39	0
+	mailbox	40	0
+	manhole	41	0
+	phone-booth	42	0
+	pothole	43	0
+	street-light	44	0
+	support
+		pole	45	0
+		traffic-sign-frame	46	0
+		utility-pole	47	0
+	traffic-light	48	0
+	traffic-sign
+		back	49	0
+		front	50	0
+	trash-can	51	0
+	vehicle
+		bicycle	52	0
+		boat	53	0
+		bus	54	0
+		car	55	0
+		caravan	56	0
+		motorcycle	57	0
+		on-rails	58	0
+		other-vehicle	59	0
+		trailer	60	0
+		truck	61	0
+		wheeled-slow	62	0
+void
+	car-mount	63	0
+	ego-vehicle	64	0
+	unlabeled	65	2

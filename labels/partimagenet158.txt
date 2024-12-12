@@ -1,0 +1,770 @@
+quadruped
+	impala
+		head	0	0
+		body	1	0
+		foot	2	0
+		tail	3	0
+	egyptian_cat
+		head	29	0
+		body	30	0
+		foot	31	0
+		tail	32	0
+	japanese_spaniel
+		head	33	0
+		body	34	0
+		foot	35	0
+		tail	36	0
+	warthog
+		head	37	0
+		body	38	0
+		foot	39	0
+		tail	40	0
+	otter
+		head	58	0
+		body	59	0
+		foot	60	0
+		tail	61	0
+	sloth_bear
+		head	62	0
+		body	63	0
+		foot	64	0
+		tail	65	0
+	tibetan_terrier
+		head	75	0
+		body	76	0
+		foot	77	0
+		tail	78	0
+	timber_wolf
+		head	96	0
+		body	97	0
+		foot	98	0
+		tail	99	0
+	polecat
+		head	104	0
+		body	105	0
+		foot	106	0
+		tail	107	0
+	water_buffalo
+		head	113	0
+		body	114	0
+		foot	115	0
+		tail	116	0
+	ox
+		head	125	0
+		body	126	0
+		foot	127	0
+		tail	128	0
+	redbone
+		head	152	0
+		body	153	0
+		foot	154	0
+		tail	155	0
+	golden_retriever
+		head	169	0
+		body	170	0
+		foot	171	0
+		tail	172	0
+	english_springer
+		head	182	0
+		body	183	0
+		foot	184	0
+		tail	185	0
+	badger
+		head	186	0
+		body	187	0
+		foot	188	0
+		tail	189	0
+	tiger
+		head	202	0
+		body	203	0
+		foot	204	0
+		tail	205	0
+	american_black_bear
+		head	225	0
+		body	226	0
+		foot	227	0
+		tail	228	0
+	leopard
+		head	231	0
+		body	232	0
+		foot	233	0
+		tail	234	0
+	hartebeest
+		head	238	0
+		body	239	0
+		foot	240	0
+		tail	241	0
+	vizsla
+		head	247	0
+		body	248	0
+		foot	249	0
+		tail	250	0
+	brittany_spaniel
+		head	256	0
+		body	257	0
+		foot	258	0
+		tail	259	0
+	giant_panda
+		head	291	0
+		body	292	0
+		foot	293	0
+		tail	294	0
+	boston_bull
+		head	295	0
+		body	296	0
+		foot	297	0
+		tail	298	0
+	cougar
+		head	299	0
+		body	300	0
+		foot	301	0
+		tail	302	0
+	ram
+		head	303	0
+		body	304	0
+		foot	305	0
+		tail	306	0
+	cairn
+		head	315	0
+		body	316	0
+		foot	317	0
+		tail	318	0
+	arabian_camel
+		head	328	0
+		body	329	0
+		foot	330	0
+		tail	331	0
+	ice_bear
+		head	334	0
+		body	335	0
+		foot	336	0
+		tail	337	0
+	fox_squirrel
+		head	342	0
+		body	343	0
+		foot	344	0
+		tail	345	0
+	eskimo_dog
+		head	361	0
+		body	362	0
+		foot	363	0
+		tail	364	0
+	ibex
+		head	365	0
+		body	366	0
+		foot	367	0
+		tail	368	0
+	irish_water_spaniel
+		head	374	0
+		body	375	0
+		foot	376	0
+		tail	377	0
+	weimaraner
+		head	378	0
+		body	379	0
+		foot	380	0
+		tail	381	0
+	arctic_fox
+		head	386	0
+		body	387	0
+		foot	388	0
+		tail	389	0
+	saluki
+		head	413	0
+		body	414	0
+		foot	415	0
+		tail	416	0
+	walker_hound
+		head	431	0
+		body	432	0
+		foot	433	0
+		tail	434	0
+	cheetah
+		head	438	0
+		body	439	0
+		foot	440	0
+		tail	441	0
+	gordon_setter
+		head	460	0
+		body	461	0
+		foot	462	0
+		tail	463	0
+	gazelle
+		head	475	0
+		body	476	0
+		foot	477	0
+		tail	478	0
+	mink
+		head	488	0
+		body	489	0
+		foot	490	0
+		tail	491	0
+	soft-coated_wheaten_terrier
+		head	513	0
+		body	514	0
+		foot	515	0
+		tail	516	0
+	bighorn
+		head	517	0
+		body	518	0
+		foot	519	0
+		tail	520	0
+	saint_bernard
+		head	543	0
+		body	544	0
+		foot	545	0
+		tail	546	0
+	brown_bear
+		head	547	0
+		body	548	0
+		foot	549	0
+		tail	550	0
+	chow
+		head	559	0
+		body	560	0
+		foot	561	0
+		tail	562	0
+	weasel
+		head	563	0
+		body	564	0
+		foot	565	0
+		tail	566	0
+snake
+	night_snake
+		head	4	0
+		body	5	0
+	king_snake
+		head	10	0
+		body	11	0
+	boa_constrictor
+		head	134	0
+		body	135	0
+	green_mamba
+		head	180	0
+		body	181	0
+	thunder_snake
+		head	229	0
+		body	230	0
+	green_snake
+		head	276	0
+		body	277	0
+	hognose_snake
+		head	285	0
+		body	286	0
+	sidewinder
+		head	355	0
+		body	356	0
+	indian_cobra
+		head	464	0
+		body	465	0
+	horned_viper
+		head	495	0
+		body	496	0
+	diamondback
+		head	497	0
+		body	498	0
+	ringneck_snake
+		head	524	0
+		body	525	0
+	rock_python
+		head	526	0
+		body	527	0
+	garter_snake
+		head	541	0
+		body	542	0
+	vine_snake
+		head	588	0
+		body	589	0
+reptile
+	gila_monster
+		head	6	0
+		body	7	0
+		foot	8	0
+		tail	9	0
+	common_newt
+		head	100	0
+		body	101	0
+		foot	102	0
+		tail	103	0
+	green_lizard
+		head	144	0
+		body	145	0
+		foot	146	0
+		tail	147	0
+	terrapin
+		head	148	0
+		body	149	0
+		foot	150	0
+		tail	151	0
+	tree_frog
+		head	206	0
+		body	207	0
+		foot	208	0
+		tail	209	0
+	african_crocodile
+		head	265	0
+		body	266	0
+		foot	267	0
+		tail	268	0
+	bullfrog
+		head	281	0
+		body	282	0
+		foot	283	0
+		tail	284	0
+	american_alligator
+		head	287	0
+		body	288	0
+		foot	289	0
+		tail	290	0
+	leatherback_turtle
+		head	319	0
+		body	320	0
+		foot	321	0
+		tail	322	0
+	spotted_salamander
+		head	348	0
+		body	349	0
+		foot	350	0
+		tail	351	0
+	box_turtle
+		head	357	0
+		body	358	0
+		foot	359	0
+		tail	360	0
+	tailed_frog
+		head	394	0
+		body	395	0
+		foot	396	0
+		tail	397	0
+	african_chameleon
+		head	398	0
+		body	399	0
+		foot	400	0
+		tail	401	0
+	mud_turtle
+		head	427	0
+		body	428	0
+		foot	429	0
+		tail	430	0
+	whiptail
+		head	442	0
+		body	443	0
+		foot	444	0
+		tail	445	0
+	komodo_dragon
+		head	446	0
+		body	447	0
+		foot	448	0
+		tail	449	0
+	alligator_lizard
+		head	471	0
+		body	472	0
+		foot	473	0
+		tail	474	0
+	agama
+		head	479	0
+		body	480	0
+		foot	481	0
+		tail	482	0
+	frilled_lizard
+		head	555	0
+		body	556	0
+		foot	557	0
+		tail	558	0
+	loggerhead
+		head	584	0
+		body	585	0
+		foot	586	0
+		tail	587	0
+boat
+	trimaran
+		body	12	0
+		sail	13	0
+	yawl
+		body	91	0
+		sail	92	0
+	pirate
+		body	346	0
+		sail	347	0
+	schooner
+		body	422	0
+		sail	423	0
+fish
+	barracouta
+		head	14	0
+		body	15	0
+		fin	16	0
+		tail	17	0
+	goldfish
+		head	66	0
+		body	67	0
+		fin	68	0
+		tail	69	0
+	tiger_shark
+		head	156	0
+		body	157	0
+		fin	158	0
+		tail	159	0
+	hammerhead
+		head	165	0
+		body	166	0
+		fin	167	0
+		tail	168	0
+	coho
+		head	173	0
+		body	174	0
+		fin	175	0
+		tail	176	0
+	puffer
+		head	307	0
+		body	308	0
+		fin	309	0
+		tail	310	0
+	tench
+		head	311	0
+		body	312	0
+		fin	313	0
+		tail	314	0
+	anemone_fish
+		head	338	0
+		body	339	0
+		fin	340	0
+		tail	341	0
+	killer_whale
+		head	533	0
+		body	534	0
+		fin	535	0
+		tail	536	0
+	great_white_shark
+		head	537	0
+		body	538	0
+		fin	539	0
+		tail	540	0
+bird
+	albatross
+		head	18	0
+		body	19	0
+		wing	20	0
+		foot	21	0
+		tail	22	0
+	little_blue_heron
+		head	48	0
+		body	49	0
+		wing	50	0
+		foot	51	0
+		tail	52	0
+	spoonbill
+		head	82	0
+		body	83	0
+		wing	84	0
+		foot	85	0
+		tail	86	0
+	coucal
+		head	139	0
+		body	140	0
+		wing	141	0
+		foot	142	0
+		tail	143	0
+	black_stork
+		head	160	0
+		body	161	0
+		wing	162	0
+		foot	163	0
+		tail	164	0
+	dowitcher
+		head	213	0
+		body	214	0
+		wing	215	0
+		foot	216	0
+		tail	217	0
+	american_egret
+		head	251	0
+		body	252	0
+		wing	253	0
+		foot	254	0
+		tail	255	0
+	goose
+		head	260	0
+		body	261	0
+		wing	262	0
+		foot	263	0
+		tail	264	0
+	ruddy_turnstone
+		head	323	0
+		body	324	0
+		wing	325	0
+		foot	326	0
+		tail	327	0
+	bee_eater
+		head	455	0
+		body	456	0
+		wing	457	0
+		foot	458	0
+		tail	459	0
+	kite
+		head	466	0
+		body	467	0
+		wing	468	0
+		foot	469	0
+		tail	470	0
+	jacamar
+		head	483	0
+		body	484	0
+		wing	485	0
+		foot	486	0
+		tail	487	0
+	european_gallinule
+		head	499	0
+		body	500	0
+		wing	501	0
+		foot	502	0
+		tail	503	0
+	bald_eagle
+		head	572	0
+		body	573	0
+		wing	574	0
+		foot	575	0
+		tail	576	0
+car
+	garbage_truck
+		body	23	0
+		tier	24	0
+		side mirror	25	0
+	beach_wagon
+		body	26	0
+		tier	27	0
+		side mirror	28	0
+	minibus
+		body	41	0
+		tier	42	0
+		side mirror	43	0
+	ambulance
+		body	79	0
+		tier	80	0
+		side mirror	81	0
+	snowplow
+		body	93	0
+		tier	94	0
+		side mirror	95	0
+	golfcart
+		body	117	0
+		tier	118	0
+		side mirror	119	0
+	police_van
+		body	136	0
+		tier	137	0
+		side mirror	138	0
+	minivan
+		body	177	0
+		tier	178	0
+		side mirror	179	0
+	convertible
+		body	210	0
+		tier	211	0
+		side mirror	212	0
+	jeep
+		body	235	0
+		tier	236	0
+		side mirror	237	0
+	limousine
+		body	278	0
+		tier	279	0
+		side mirror	280	0
+	recreational_vehicle
+		body	352	0
+		tier	353	0
+		side mirror	354	0
+	go-kart
+		body	407	0
+		tier	408	0
+		side mirror	409	0
+	trolleybus
+		body	410	0
+		tier	411	0
+		side mirror	412	0
+	cab
+		body	424	0
+		tier	425	0
+		side mirror	426	0
+	tractor
+		body	435	0
+		tier	436	0
+		side mirror	437	0
+	sports_car
+		body	492	0
+		tier	493	0
+		side mirror	494	0
+	school_bus
+		body	521	0
+		tier	522	0
+		side mirror	523	0
+	racer
+		body	590	0
+		tier	591	0
+		side mirror	592	0
+bicycle
+	unicycle
+		body	44	0
+		head	45	0
+		seat	46	0
+		tier	47	0
+	motor_scooter
+		body	87	0
+		head	88	0
+		seat	89	0
+		tier	90	0
+	bicycle-built-for-two
+		body	382	0
+		head	383	0
+		seat	384	0
+		tier	385	0
+	tricycle
+		body	390	0
+		head	391	0
+		seat	392	0
+		tier	393	0
+	mountain_bike
+		body	509	0
+		head	510	0
+		seat	511	0
+		tier	512	0
+	moped
+		body	551	0
+		head	552	0
+		seat	553	0
+		tier	554	0
+biped
+	orangutan
+		head	53	0
+		body	54	0
+		hand	55	0
+		foot	56	0
+		tail	57	0
+	gorilla
+		head	70	0
+		body	71	0
+		hand	72	0
+		foot	73	0
+		tail	74	0
+	gibbon
+		head	108	0
+		body	109	0
+		hand	110	0
+		foot	111	0
+		tail	112	0
+	guenon
+		head	120	0
+		body	121	0
+		hand	122	0
+		foot	123	0
+		tail	124	0
+	siamang
+		head	129	0
+		body	130	0
+		hand	131	0
+		foot	132	0
+		tail	133	0
+	macaque
+		head	190	0
+		body	191	0
+		hand	192	0
+		foot	193	0
+		tail	194	0
+	patas
+		head	195	0
+		body	196	0
+		hand	197	0
+		foot	198	0
+		tail	199	0
+	howler_monkey
+		head	218	0
+		body	219	0
+		hand	220	0
+		foot	221	0
+		tail	222	0
+	chimpanzee
+		head	242	0
+		body	243	0
+		hand	244	0
+		foot	245	0
+		tail	246	0
+	proboscis_monkey
+		head	271	0
+		body	272	0
+		hand	273	0
+		foot	274	0
+		tail	275	0
+	spider_monkey
+		head	402	0
+		body	403	0
+		hand	404	0
+		foot	405	0
+		tail	406	0
+	baboon
+		head	417	0
+		body	418	0
+		hand	419	0
+		foot	420	0
+		tail	421	0
+	titi
+		head	450	0
+		body	451	0
+		hand	452	0
+		foot	453	0
+		tail	454	0
+	colobus
+		head	504	0
+		body	505	0
+		hand	506	0
+		foot	507	0
+		tail	508	0
+	capuchin
+		head	528	0
+		body	529	0
+		hand	530	0
+		foot	531	0
+		tail	532	0
+	squirrel_monkey
+		head	577	0
+		body	578	0
+		hand	579	0
+		foot	580	0
+		tail	581	0
+	marmoset
+		head	593	0
+		body	594	0
+		hand	595	0
+		foot	596	0
+		tail	597	0
+bottle
+	beer_bottle
+		mouth	200	0
+		body	201	0
+	pop_bottle
+		mouth	223	0
+		body	224	0
+	water_bottle
+		mouth	269	0
+		body	270	0
+	wine_bottle
+		mouth	332	0
+		body	333	0
+	pill_bottle
+		mouth	582	0
+		body	583	0
+aeroplane
+	warplane
+		head	369	0
+		body	370	0
+		engine	371	0
+		wing	372	0
+		tail	373	0
+	airliner
+		head	567	0
+		body	568	0
+		engine	569	0
+		wing	570	0
+		tail	571	0
+void
+	background	599	1
+	unlabeled	600	2

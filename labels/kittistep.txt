@@ -1,0 +1,28 @@
+void
+	unlabeled	255	2
+flat
+	road	0	0
+	sidewalk	1	0
+construction
+	building	2	0
+	wall	3	0
+	fence	4	0
+object
+	pole	5	0
+	traffic light	6	0
+	traffic sign	7	0
+nature
+	vegetation	8	0
+	terrain	9	0
+sky
+	sky	10	0
+human
+	person	11	0
+	rider	12	0
+vehicle
+	car	13	0
+	truck	14	0
+	bus	15	0
+	train	16	0
+	motorcycle	17	0
+	bicycle	18	0

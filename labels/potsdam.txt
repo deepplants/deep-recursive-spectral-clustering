@@ -1,0 +1,7 @@
+roads	0	0
+buildings	1	0
+vegetation	2	0
+tree	3	0
+car	4	0
+clutter	5	0
+unlabeled	255	2

@@ -1,0 +1,470 @@
+{
+    "voc12": {
+        "trainaug": {
+            "img": {
+                "dir": "./datasets/voc12/VOCdevkit/VOC2012/JPEGImages",
+                "list_txt": "./datasets/voc12/VOCdevkit/VOC2012/ImageSets/Segmentation/trainaug.txt",
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/voc12/VOCdevkit/VOC2012/SegmentationClassAug",
+                "list_txt": "./datasets/voc12/VOCdevkit/VOC2012/ImageSets/Segmentation/trainaug.txt",
+                "ext": "png",
+                "labels_txt": "./labels/voc12.txt"
+            }
+        },
+        "train": {
+            "img": {
+                "dir": "./datasets/voc12/VOCdevkit/VOC2012/JPEGImages",
+                "list_txt": "./datasets/voc12/VOCdevkit/VOC2012/ImageSets/Segmentation/train.txt",
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/voc12/VOCdevkit/VOC2012/SegmentationClass",
+                "list_txt": "./datasets/voc12/VOCdevkit/VOC2012/ImageSets/Segmentation/train.txt",
+                "ext": "png",
+                "labels_txt": "./labels/voc12.txt"
+            }
+        },
+        "val": {
+            "img": {
+                "dir": "./datasets/voc12/VOCdevkit/VOC2012/JPEGImages",
+                "list_txt": "./datasets/voc12/VOCdevkit/VOC2012/ImageSets/Segmentation/val.txt",
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/voc12/VOCdevkit/VOC2012/SegmentationClass",
+                "list_txt": "./datasets/voc12/VOCdevkit/VOC2012/ImageSets/Segmentation/val.txt",
+                "ext": "png",
+                "labels_txt": "./labels/voc12.txt"
+            }
+        },
+        "test": {
+            "img": {
+                "dir": "./datasets/voc12/VOCdevkit/VOC2012/JPEGImages",
+                "list_txt": "./datasets/voc12/VOCdevkit/VOC2012/ImageSets/Segmentation/test.txt",
+                "ext": "jpg"
+            },
+            "annot": {
+                "labels_txt": "./labels/voc12.txt"
+            }
+        }
+    },
+    "voc10": {
+        "train": {
+            "img": {
+                "dir": "./datasets/voc10/VOCdevkit/VOC2010/JPEGImages",
+                "list_txt": "./datasets/voc10/VOCdevkit/VOC2010/ImageSets/Segmentation/train.txt",
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/voc10/VOCdevkit/VOC2010/SegmentationClass",
+                "list_txt": "./datasets/voc10/VOCdevkit/VOC2010/ImageSets/Segmentation/train.txt",
+                "ext": "png",
+                "labels_txt": "./labels/voc10.txt"
+            }
+        },
+        "val": {
+            "img": {
+                "dir": "./datasets/voc10/VOCdevkit/VOC2010/JPEGImages",
+                "list_txt": "./datasets/voc10/VOCdevkit/VOC2010/ImageSets/Segmentation/val.txt",
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/voc10/VOCdevkit/VOC2010/SegmentationClass",
+                "list_txt": "./datasets/voc10/VOCdevkit/VOC2010/ImageSets/Segmentation/val.txt",
+                "ext": "png",
+                "labels_txt": "./labels/voc10.txt"
+            }
+        }
+    },
+    "pascalpart": {
+        "trainval": {
+            "img": {
+                "dir": "./datasets/voc10/VOCdevkit/VOC2010/JPEGImages",
+                "list_txt": "./datasets/voc10/Pascal-Part/trainval.txt",
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/voc10/Pascal-Part/Annotations_Part_Ids",
+                "list_txt": "./datasets/voc10/Pascal-Part/trainval.txt",
+                "ext": "png",
+                "labels_txt": "./labels/pascalpart.txt"
+            }
+        },
+        "val": {
+            "img": {
+                "dir": "./datasets/voc10/VOCdevkit/VOC2010/JPEGImages",
+                "list_txt": "./datasets/voc10/Pascal-Part/val.txt",
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/voc10/Pascal-Part/Annotations_Part_Ids",
+                "list_txt": "./datasets/voc10/Pascal-Part/val.txt",
+                "ext": "png",
+                "labels_txt": "./labels/pascalpart.txt"
+            }
+        }
+    },
+    "partimagenet": {
+        "train": {
+            "img": {
+                "dir": "./datasets/PartImageNet/PartImageNet/images/train",
+                "list_txt": null,
+                "ext": "JPEG"
+            },
+            "annot": {
+                "dir": "./datasets/PartImageNet/PartImageNet/annotations/train",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/partimagenet.txt"
+            }
+        },
+        "val": {
+            "img": {
+                "dir": "./datasets/PartImageNet/PartImageNet/images/val",
+                "list_txt": null,
+                "ext": "JPEG"
+            },
+            "annot": {
+                "dir": "./datasets/PartImageNet/PartImageNet/annotations/val",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/partimagenet158.txt"
+            }
+        },
+        "test": {
+            "img": {
+                "dir": "./datasets/PartImageNet/PartImageNet/images/test",
+                "list_txt": null,
+                "ext": "JPEG"
+            },
+            "annot": {
+                "dir": "./datasets/PartImageNet/PartImageNet/annotations/test",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/partimagenet.txt"
+            }
+        },
+        "train_158": {
+            "img": {
+                "dir": "./datasets/PartImageNet/PartImageNet/images/train",
+                "list_txt": null,
+                "ext": "JPEG"
+            },
+            "annot": {
+                "dir": "./datasets/PartImageNet/PartImageNet/annotations/train_idx",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/partimagenet158.txt"
+            }
+        },
+        "val_158": {
+            "img": {
+                "dir": "./datasets/PartImageNet/PartImageNet/images/val",
+                "list_txt": null,
+                "ext": "JPEG"
+            },
+            "annot": {
+                "dir": "./datasets/PartImageNet/PartImageNet/annotations/val_idx",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/partimagenet158.txt"
+            }
+        },
+        "test_158": {
+            "img": {
+                "dir": "./datasets/PartImageNet/PartImageNet/images/test",
+                "list_txt": null,
+                "ext": "JPEG"
+            },
+            "annot": {
+                "dir": "./datasets/PartImageNet/PartImageNet/annotations/test_idx",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/partimagenet158.txt"
+            }
+        }
+    },
+    "coco": {
+        "train_stuffthing": {
+            "img": {
+                "dir": "./datasets/cocostuff/dataset/images/train2017",
+                "list_txt": null,
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/cocostuff/dataset/annotations/train2017",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/cocostuffthing.txt"
+            }
+        },
+        "train_thing": {
+            "img": {
+                "dir": "./datasets/cocostuff/dataset/images/train2017",
+                "list_txt": null,
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/cocostuff/dataset/annotations/train2017",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/cocothing.txt"
+            }
+        },
+        "train_stuff": {
+            "img": {
+                "dir": "./datasets/cocostuff/dataset/images/train2017",
+                "list_txt": null,
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/cocostuff/dataset/annotations/train2017",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/cocostuff.txt"
+            }
+        },
+        "val_stuffthing": {
+            "img": {
+                "dir": "./datasets/cocostuff/dataset/images/val2017",
+                "list_txt": null,
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/cocostuff/dataset/annotations/val2017",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/cocostuffthing.txt"
+            }
+        },
+        "val_thing": {
+            "img": {
+                "dir": "./datasets/cocostuff/dataset/images/val2017",
+                "list_txt": null,
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/cocostuff/dataset/annotations/val2017",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/cocothing.txt"
+            }
+        },
+        "val_stuff": {
+            "img": {
+                "dir": "./datasets/cocostuff/dataset/images/val2017",
+                "list_txt": null,
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/cocostuff/dataset/annotations/val2017",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/cocostuff.txt"
+            }
+        }
+    },
+    "cityscapes": {
+        "train": {
+            "img": {
+                "dir": "./datasets/cityscapes/dataset/leftImg8bit/train",
+                "list_txt": "./datasets/cityscapes/dataset/leftImg8bit/train.txt",
+                "ext": "png"
+            },
+            "annot": {
+                "dir": "./datasets/cityscapes/dataset/gtFine/train",
+                "list_txt": "./datasets/cityscapes/dataset/gtFine/train.txt",
+                "ext": "png",
+                "labels_txt": "./labels/cityscapes.txt"
+            }
+        },
+        "val": {
+            "img": {
+                "dir": "./datasets/cityscapes/dataset/leftImg8bit/val",
+                "list_txt": "./datasets/cityscapes/dataset/leftImg8bit/val.txt",
+                "ext": "png"
+            },
+            "annot": {
+                "dir": "./datasets/cityscapes/dataset/gtFine/val",
+                "list_txt": "./datasets/cityscapes/dataset/gtFine/val.txt",
+                "ext": "png",
+                "labels_txt": "./labels/cityscapes.txt"
+            }
+        }
+    },
+    "kitti": {
+        "train_ss": {
+            "img": {
+                "dir": "./datasets/KITTI/SS/training/image_2",
+                "list_txt": null,
+                "ext": "png"
+            },
+            "annot": {
+                "dir": "./datasets/KITTI/SS/training/semantic",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/cityscapes.txt"
+            }
+        },
+        "test_ss": {
+            "img": {
+                "dir": "./datasets/KITTI/SS/testing/image_2",
+                "list_txt": null,
+                "ext": "png"
+            },
+            "annot": {
+                "labels_txt": "./labels/cityscapes.txt"
+            }
+        },
+        "train_step": {
+            "img": {
+                "dir": "./datasets/KITTI/STEP/training/image_02",
+                "list_txt": "./datasets/KITTI/STEP/train.txt",
+                "ext": "png"
+            },
+            "annot": {
+                "dir": "./datasets/KITTI/STEP/kitti-step/semantic_maps/train",
+                "list_txt": "./datasets/KITTI/STEP/train.txt",
+                "ext": "png",
+                "labels_txt": "./labels/kittistep.txt"
+            }
+        },
+        "val_step": {
+            "img": {
+                "dir": "./datasets/KITTI/STEP/training/image_02",
+                "list_txt": "./datasets/KITTI/STEP/val.txt",
+                "ext": "png"
+            },
+            "annot": {
+                "dir": "./datasets/KITTI/STEP/kitti-step/semantic_maps/val",
+                "list_txt": "./datasets/KITTI/STEP/val.txt",
+                "ext": "png",
+                "labels_txt": "./labels/kittistep.txt"
+            }
+        },
+        "test_step": {
+            "img": {
+                "dir": "./datasets/KITTI/STEP/testing/image_02",
+                "list_txt": "./datasets/KITTI/STEP/test.txt",
+                "ext": "png"
+            },
+            "annot": {
+                "labels_txt": "./labels/kittistep.txt"
+            }
+        }
+    },
+    "mapillaryvistas": {
+        "train": {
+            "img": {
+                "dir": "./datasets/MapillaryVistas/training/images",
+                "list_txt": null,
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/MapillaryVistas/training/labels",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/mapillaryvistas.txt"
+            }
+        },
+        "val": {
+            "img": {
+                "dir": "./datasets/MapillaryVistas/validation/images",
+                "list_txt": null,
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/MapillaryVistas/validation/labels",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/mapillaryvistas.txt"
+            }
+        },
+        "test": {
+            "img": {
+                "dir": "./datasets/MapillaryVistas/testing/images",
+                "list_txt": null,
+                "ext": "jpg"
+            },
+            "annot": {
+                "dir": "./datasets/MapillaryVistas/testing/labels",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/mapillaryvistas.txt"
+            }
+        }
+    },
+    "potsdam": {
+        "train": {
+            "img": {
+                "dir": "./datasets/ISPRS/Potsdam/rgb",
+                "list_txt": null,
+                "ext": "png"
+            },
+            "annot": {
+                "dir": "./datasets/ISPRS/Potsdam/annot",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/potsdam.txt"
+            }
+        },
+        "train_tile": {
+            "img": {
+                "dir": "./datasets/ISPRS/Potsdam/rgb_tiles",
+                "list_txt": null,
+                "ext": "png"
+            },
+            "annot": {
+                "dir": "./datasets/ISPRS/Potsdam/annot_tiles",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/potsdam.txt"
+            }
+        }
+    },
+    "vaihingen": {
+        "train": {
+            "img": {
+                "dir": "./datasets/ISPRS/Vaihingen/rgb",
+                "list_txt": null,
+                "ext": "png"
+            },
+            "annot": {
+                "dir": "./datasets/ISPRS/Vaihingen/annot",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/potsdam.txt"
+            }
+        },
+        "train_tile": {
+            "img": {
+                "dir": "./datasets/ISPRS/Vaihingen/rgb_tiles",
+                "list_txt": null,
+                "ext": "png"
+            },
+            "annot": {
+                "dir": "./datasets/ISPRS/Vaihingen/annot_tiles",
+                "list_txt": null,
+                "ext": "png",
+                "labels_txt": "./labels/potsdam.txt"
+            }
+        }
+    },
+    "sugarbeets": {
+        "train": {
+            "img": {
+                "dir": "./datasets/SugarBeets/rgb",
+                "list_txt": "./datasets/SugarBeets/all.txt",
+                "ext": "png"
+            },
+            "annot": {
+                "dir": "./datasets/SugarBeets/iMapCleaned",
+                "list_txt": "./datasets/SugarBeets/all.txt",
+                "ext": "png",
+                "labels_txt": "./labels/sugarbeets.txt"
+            }
+        }
+    }
+}

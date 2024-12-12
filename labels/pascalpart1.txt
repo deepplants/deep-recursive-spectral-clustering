@@ -1,0 +1,465 @@
+background	0	1
+aeroplane
+	body	1	0
+	engine
+		engine_1	2	0
+		engine_2	3	0
+		engine_3	4	0
+		engine_4	5	0
+		engine_5	6	0
+		engine_6	7	0
+		engine_7	8	0
+		engine_8	9	0
+		engine_9	10	0
+		engine_10	11	0
+	stern	12	0
+	tail	13	0
+	wheel
+		wheel_1	14	0
+		wheel_2	15	0
+		wheel_3	16	0
+		wheel_4	17	0
+		wheel_5	18	0
+		wheel_6	19	0
+		wheel_7	20	0
+		wheel_8	21	0
+		wheel_9	22	0
+		wheel_10	23	0
+	wing
+		lwing	24	0
+		rwing	25	0
+bicycle
+	chainwheel	26	0
+	handlebar	27	0
+	headlight
+		headlight_1	28	0
+		headlight_2	29	0
+		headlight_3	30	0
+		headlight_4	31	0
+		headlight_5	32	0
+		headlight_6	33	0
+		headlight_7	34	0
+		headlight_8	35	0
+		headlight_9	36	0
+		headlight_10	37	0
+	saddle	38	0
+	wheel
+		bwheel	39	0
+		fwheel	40	0
+bird
+	beak	41	0
+	head	42	0
+	eye
+		leye	43	0
+		reye	44	0
+	foot
+		lfoot	45	0
+		rfoot	46	0
+	leg
+		lleg	47	0
+		rleg	48	0
+	neck	49	0
+	tail	50	0
+	torso	51	0
+	wing
+		lwing	52	0
+		rwing	53	0
+boat	54	0
+bottle
+	body	55	0
+	cap	56	0
+bus
+	backside	57	0
+	door
+		door_1	58	0
+		door_2	59	0
+		door_3	60	0
+		door_4	61	0
+		door_5	62	0
+		door_6	63	0
+		door_7	64	0
+		door_8	65	0
+		door_9	66	0
+		door_10	67	0
+	headlight
+		headlight_1	68	0
+		headlight_2	69	0
+		headlight_3	70	0
+		headlight_4	71	0
+		headlight_5	72	0
+		headlight_6	73	0
+		headlight_7	74	0
+		headlight_8	75	0
+		headlight_9	76	0
+		headlight_10	77	0
+	mirror
+		leftmirror	78	0
+		rightmirror	79	0
+	licenseplate
+		bliplate	80	0
+		fliplate	81	0
+	side
+		frontside	82	0
+		leftside	83	0
+		rightside	84	0
+		roofside	85	0
+	wheel
+		wheel_1	86	0
+		wheel_2	87	0
+		wheel_3	88	0
+		wheel_4	89	0
+		wheel_5	90	0
+		wheel_6	91	0
+		wheel_7	92	0
+		wheel_8	93	0
+		wheel_9	94	0
+		wheel_10	95	0
+	window
+		window_1	96	0
+		window_2	97	0
+		window_3	98	0
+		window_4	99	0
+		window_5	100	0
+		window_6	101	0
+		window_7	102	0
+		window_8	103	0
+		window_9	104	0
+		window_10	105	0
+		window_11	106	0
+		window_12	107	0
+		window_13	108	0
+		window_14	109	0
+		window_15	110	0
+		window_16	111	0
+		window_17	112	0
+		window_18	113	0
+		window_19	114	0
+		window_20	115	0
+car
+	door
+		door_1	116	0
+		door_2	117	0
+		door_3	118	0
+		door_4	119	0
+		door_5	120	0
+		door_6	121	0
+		door_7	122	0
+		door_8	123	0
+		door_9	124	0
+		door_10	125	0
+	headlight
+		headlight_1	126	0
+		headlight_2	127	0
+		headlight_3	128	0
+		headlight_4	129	0
+		headlight_5	130	0
+		headlight_6	131	0
+		headlight_7	132	0
+		headlight_8	133	0
+		headlight_9	134	0
+		headlight_10	135	0
+	mirror
+		leftmirror	136	0
+		rightmirror	137	0
+	plate
+		bliplate	138	0
+		fliplate	139	0
+	side
+		backside	140	0
+		frontside	141	0
+		leftside	142	0
+		rightside	143	0
+		roofside	144	0
+	wheel
+		wheel_1	145	0
+		wheel_2	146	0
+		wheel_3	147	0
+		wheel_4	148	0
+		wheel_5	149	0
+		wheel_6	150	0
+		wheel_7	151	0
+		wheel_8	152	0
+		wheel_9	153	0
+		wheel_10	154	0
+	window
+		window_1	155	0
+		window_2	156	0
+		window_3	157	0
+		window_4	158	0
+		window_5	159	0
+		window_6	160	0
+		window_7	161	0
+		window_8	162	0
+		window_9	163	0
+		window_10	164	0
+		window_11	165	0
+		window_12	166	0
+		window_13	167	0
+		window_14	168	0
+		window_15	169	0
+		window_16	170	0
+		window_17	171	0
+		window_18	172	0
+		window_19	173	0
+		window_20	174	0
+cat
+	ear
+		lear	175	0
+		rear	176	0
+	eye
+		leye	177	0
+		reye	178	0
+	head	179	0
+	leg
+		lbleg	180	0
+		lfleg	181	0
+		rbleg	182	0
+		rfleg	183	0
+	neck	184	0
+	nose	185	0
+	paw
+		lbpa	186	0
+		lfpa	187	0
+		rbpa	188	0
+		rfpa	189	0
+	tail	190	0
+	torso	191	0
+chair	192	0
+cow
+	head	193	0
+	ear
+		lear	194	0
+		rear	195	0
+	eye
+		leye	196	0
+		reye	197	0
+	horn
+		lhorn	198	0
+		rhorn	199	0
+	leg
+		lblleg	200	0
+		lflleg	201	0
+		rblleg	202	0
+		rflleg	203	0
+		lbuleg	204	0
+		lfuleg	205	0
+		rbuleg	206	0
+		rfuleg	207	0
+	muzzle	208	0
+	neck	209	0
+	tail	210	0
+	torso	211	0
+dog
+	ear
+		lear	212	0
+		rear	213	0
+	eye
+		leye	214	0
+		reye	215	0
+	head	216	0
+	leg
+		lbleg	217	0
+		lfleg	218	0
+		rbleg	219	0
+		rfleg	220	0
+	muzzle	221	0
+	neck	222	0
+	nose	223	0
+	paw
+		lbpa	224	0
+		lfpa	225	0
+		rbpa	226	0
+		rfpa	227	0
+	tail	228	0
+	torso	229	0
+horse
+	head	230	0
+	ear
+		lear	231	0
+		rear	232	0
+	eye
+		leye	233	0
+		reye	234	0
+	horn
+		lbho	235	0
+		lfho	236	0
+		rbho	237	0
+		rfho	238	0
+	leg
+		lblleg	239	0
+		lflleg	240	0
+		rblleg	241	0
+		rflleg	242	0
+		lbuleg	243	0
+		lfuleg	244	0
+		rbuleg	245	0
+		rfuleg	246	0
+	muzzle	247	0
+	neck	248	0
+	tail	249	0
+	torso	250	0
+motorbike
+	handlebar	251	0
+	headlight
+		headlight_1	252	0
+		headlight_2	253	0
+		headlight_3	254	0
+		headlight_4	255	0
+		headlight_5	256	0
+		headlight_6	257	0
+		headlight_7	258	0
+		headlight_8	259	0
+		headlight_9	260	0
+		headlight_10	261	0
+	saddle	262	0
+	wheel
+		bwheel	263	0
+		fwheel	264	0
+person
+	arm
+		llarm	265	0
+		luarm	266	0
+		rlarm	267	0
+		ruarm	268	0
+	ear
+		lear	269	0
+		rear	270	0
+	eye
+		leye	271	0
+		reye	272	0
+	eyebrow
+		lebrow	273	0
+		rebrow	274	0
+	foot
+		lfoot	275	0
+		rfoot	276	0
+	hair	277	0
+	hand
+		lhand	278	0
+		rhand	279	0
+	head	280	0
+	leg
+		llleg	281	0
+		luleg	282	0
+		rlleg	283	0
+		ruleg	284	0
+	mouth	285	0
+	neck	286	0
+	nose	287	0
+	torso	288	0
+pottedplant
+	plant	289	0
+	pot	290	0
+sheep
+	head	291	0
+	ear
+		lear	292	0
+		rear	293	0
+	eye
+		leye	294	0
+		reye	295	0
+	horn
+		lhorn	296	0
+		rhorn	297	0
+	leg
+		lblleg	298	0
+		lflleg	299	0
+		rblleg	300	0
+		rflleg	301	0
+		lbuleg	302	0
+		lfuleg	303	0
+		rbuleg	304	0
+		rfuleg	305	0
+	muzzle	306	0
+	neck	307	0
+	tail	308	0
+	torso	309	0
+sofa	310	0
+table	311	0
+train
+	cbackside
+		cbackside_1	312	0
+		cbackside_2	313	0
+		cbackside_3	314	0
+		cbackside_4	315	0
+		cbackside_5	316	0
+		cbackside_6	317	0
+		cbackside_7	318	0
+		cbackside_8	319	0
+		cbackside_9	320	0
+		cbackside_10	321	0
+	cfrontside
+		cfrontside_1	322	0
+		cfrontside_2	323	0
+		cfrontside_3	324	0
+		cfrontside_4	325	0
+		cfrontside_5	326	0
+		cfrontside_6	327	0
+		cfrontside_7	328	0
+		cfrontside_8	329	0
+		cfrontside_9	330	0
+		cfrontside_10	331	0
+	cleftside
+		cleftside_1	332	0
+		cleftside_2	333	0
+		cleftside_3	334	0
+		cleftside_4	335	0
+		cleftside_5	336	0
+		cleftside_6	337	0
+		cleftside_7	338	0
+		cleftside_8	339	0
+		cleftside_9	340	0
+		cleftside_10	341	0
+	coach
+		coach_1	342	0
+		coach_2	343	0
+		coach_3	344	0
+		coach_4	345	0
+		coach_5	346	0
+		coach_6	347	0
+		coach_7	348	0
+		coach_8	349	0
+		coach_9	350	0
+		coach_10	351	0
+	crightside
+		crightside_1	352	0
+		crightside_2	353	0
+		crightside_3	354	0
+		crightside_4	355	0
+		crightside_5	356	0
+		crightside_6	357	0
+		crightside_7	358	0
+		crightside_8	359	0
+		crightside_9	360	0
+		crightside_10	361	0
+	croofside
+		croofside_1	362	0
+		croofside_2	363	0
+		croofside_3	364	0
+		croofside_4	365	0
+		croofside_5	366	0
+		croofside_6	367	0
+		croofside_7	368	0
+		croofside_8	369	0
+		croofside_9	370	0
+		croofside_10	371	0
+	hbackside	372	0
+	head	373	0
+	headlight
+		headlight_1	374	0
+		headlight_2	375	0
+		headlight_3	376	0
+		headlight_4	377	0
+		headlight_5	378	0
+		headlight_6	379	0
+		headlight_7	380	0
+		headlight_8	381	0
+		headlight_9	382	0
+		headlight_10	383	0
+	hfrontside	384	0
+	hleftside	385	0
+	hrightside	386	0
+	hroofside	387	0
+tvmonitor
+	screen	388	0
+unlabeled	389	2
